@@ -1,6 +1,6 @@
 ### Olá! Me chamo Jonatha Luiz ✌️
 
-![Jonatha GitHub stats](https://github-readme-stats.vercel.app/api?username=luizjfernandes&show_icons=true&theme=radical)
+![Jonatha GitHub stats](https://github-readme-stats.vercel.app/api?username=luizjfernandes&show_icons=true&theme=synthwave)
 
 ### Tecnoligas que estudo
 <div style="display: inline_block"><br/>
